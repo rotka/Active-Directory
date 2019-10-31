@@ -1,6 +1,12 @@
 # ⚠️ NOT MY WORK ⚠️
 # ORIGINAL SOURCE: https://www.thelazyadministrator.com/
 
+https://www.thelazyadministrator.com/2018/12/04/get-an-active-directory-interactive-html-report-with-powershell/
+https://www.thelazyadministrator.com/2019/04/01/master-user-creator-powershell-gui-software-v2-update/
+
+
+
+
 While I walk you through the report, you can view it for yourself [here](https://thelazyadministrator.com/wp-content/uploads/2018/12/4-12-2018-ADReport.html)
 
 Interactive HTML report generated with PowerShell to give you an overview of your Active Directory enviornment. 
