@@ -4,7 +4,6 @@
 **MAIN WEBSITE:** https://www.thelazyadministrator.com/
 
 **ORIGINAL ARTICLES:**
-
 https://www.thelazyadministrator.com/2018/12/04/get-an-active-directory-interactive-html-report-with-powershell/
 https://www.thelazyadministrator.com/2019/04/01/master-user-creator-powershell-gui-software-v2-update/
 
