@@ -1,6 +1,7 @@
 # ⚠️ NOT MY WORK ⚠️
-# ORIGINAL SOURCES:
 
+
+**ORIGINAL SOURCES:**
 **MAIN WEBSITE:** https://www.thelazyadministrator.com/
 
 **ORIGINAL ARTICLES:**
