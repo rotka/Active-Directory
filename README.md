@@ -11,6 +11,10 @@ https://www.thelazyadministrator.com/2019/04/01/master-user-creator-powershell-g
 
 
 
+
+
+
+
 While I walk you through the report, you can view it for yourself [here](https://thelazyadministrator.com/wp-content/uploads/2018/12/4-12-2018-ADReport.html)
 
 Interactive HTML report generated with PowerShell to give you an overview of your Active Directory enviornment. 
